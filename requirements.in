@@ -9,4 +9,5 @@ PyYAML
 pyworld
 appdirs
 espnet
+typing-extensions
 git+https://github.com/VOICEVOX/pyopenjtalk@1570485e3b74c79bb6bb5d7f01758c80ab4744e7#egg=pyopenjtalk
